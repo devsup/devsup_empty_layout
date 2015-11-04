@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Empty View</string>
+    <string name="action_settings">Settings</string>
+    
+    
+    <string name="empty_message">Nenhum item encontrado</string>
+    <string name="loading_message">Por favor aguarde</string>
+    <string name="error_message">Ops! Sem conexão com o servidor</string>
+    
+    <string name="empty_button">Tentar novamente</string>
+    <string name="loading_button">Cancelar</string>
+    <string name="error_button">Tentar novamente</string>
+
+</resources>
